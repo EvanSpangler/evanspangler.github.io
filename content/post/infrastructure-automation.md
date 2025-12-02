@@ -1,6 +1,6 @@
 ---
 title: "Infrastructure & Cloud Solutions"
-date: 2024-01-15
+date: 2024-01-06
 featured: true
 image: "images/pic01.jpg"
 description: "Scalable, reliable infrastructure from on-premise to cloud. Automation with Terraform, AWS, OCI, and modern DevOps practices."

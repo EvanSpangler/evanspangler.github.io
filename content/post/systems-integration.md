@@ -1,6 +1,6 @@
 ---
 title: "Systems Integration"
-date: 2024-01-05
+date: 2024-01-04
 featured: true
 image: "images/pic05.jpg"
 description: "Complex systems integration and project management. Experience includes Navy LVC simulation systems and distributed training environments."

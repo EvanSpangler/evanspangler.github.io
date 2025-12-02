@@ -5,16 +5,16 @@ description: "Comprehensive technology solutions from infrastructure to custom s
 
 ## What We Offer
 
-### IT Infrastructure & Cloud Solutions
+### IT Systems & Networks Administration
 
-Build reliable, scalable infrastructure that supports your operations. From on-premise to cloud deployments, we design and implement systems that work.
+Comprehensive systems management ensuring reliable, secure operations.
 
-- Infrastructure automation with Terraform, Ansible, and Python
-- Cloud architecture and migration (AWS, Oracle Cloud Infrastructure, Azure)
-- Virtualization and hypervisor solutions (VMware, Proxmox, Xen)
-- Network architecture design and implementation
-- Backup and disaster recovery solutions
-- System integration and optimization
+- Linux and Windows server administration
+- Active Directory and identity management
+- VoIP phone systems (FreePBX, Asterisk, Cisco)
+- Configuration management (Puppet, Ansible)
+- Centralized logging and monitoring
+- Patch management and system updates
 
 ### Custom Electronics & Systems Design
 
@@ -35,16 +35,16 @@ Complete electronic security solutions designed, installed, and maintained to pr
 - Integration with existing security infrastructure
 - Ongoing maintenance and support
 
-### IT Systems Administration
+### IT Infrastructure & Cloud Solutions
 
-Comprehensive systems management ensuring reliable, secure operations.
+Build reliable, scalable infrastructure that supports your operations. We design and implement working systems from on-premise to cloud deployments.
 
-- Linux and Windows server administration
-- Active Directory and identity management
-- VoIP phone systems (FreePBX, Asterisk, Cisco)
-- Configuration management (Puppet, Ansible)
-- Centralized logging and monitoring
-- Patch management and system updates
+- Infrastructure automation with Terraform, Ansible, and Python
+- Cloud architecture and migration (AWS, Oracle Cloud Infrastructure, Azure)
+- Virtualization and hypervisor solutions (VMware, Proxmox, Xen)
+- Network architecture design and implementation
+- Backup and disaster recovery solutions
+- System integration and optimization
 
 ### Cybersecurity & Compliance
 
@@ -83,9 +83,9 @@ Strategic guidance and execution for technology initiatives.
 
 ## Why Work With Us?
 
-**Proven Track Record** - Nearly a decade delivering technology solutions across federal agencies, startups, and enterprise environments. Experience includes Oracle Cloud Infrastructure, Navy training systems integration, and embedded military aviation systems.
+**Proven Track Record** - Over a decade delivering technology solutions across federal agencies, startups, and enterprise environments. Experience includes Oracle Cloud Infrastructure, Navy training systems integration, and embedded military aviation systems.
 
-**End-to-End Capabilities** - From high-level strategy to hands-on implementation. We design solutions and build them ourselves.
+**End-to-End Capabilities** - From strategy to implementation. We design and build solutions ourselves.
 
 **Infrastructure Expertise** - Deep knowledge of modern infrastructure practices including Infrastructure-as-Code, cloud platforms, automation, and system integration.
 

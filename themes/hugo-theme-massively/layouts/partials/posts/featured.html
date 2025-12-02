@@ -3,9 +3,6 @@
 {{ range .firstpost }}
 <article class="post featured">
     <header class="major">
-        {{ if not .Date.IsZero }}
-        <span class="date">{{ .Date.Format (.Site.Params.DateFormat | default "January 2, 2006") }}</span>
-        {{ end }}
         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
         {{ if .Description }}
         <p>{{ .Description }}</p>

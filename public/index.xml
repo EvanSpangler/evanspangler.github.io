@@ -1,61 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Evan Spangler Consulting - Technology Solutions</title>
+    <title>Evan Spangler Consulting</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Evan Spangler Consulting - Technology Solutions</description>
+    <description>Recent content on Evan Spangler Consulting</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Infrastructure &amp; Cloud Solutions</title>
       <link>http://localhost:1313/post/infrastructure-automation/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/infrastructure-automation/</guid>
       <description>&lt;p&gt;Build infrastructure that supports your operations without constant manual intervention. We design and implement cloud architectures, automate deployments, and create systems that scale with your needs.&lt;/p&gt;&#xA;&lt;p&gt;Experience includes Oracle Cloud Infrastructure, AWS deployments, infrastructure automation with Terraform and Ansible, and hybrid cloud environments. Whether migrating to the cloud or optimizing existing infrastructure, we deliver working systems.&lt;/p&gt;&#xA;&lt;p&gt;CI/CD pipelines, Infrastructure-as-Code, configuration management, and automated testing reduce manual work while increasing reliability.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Custom Electronics &amp; Systems</title>
-      <link>http://localhost:1313/post/custom-systems/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/custom-systems/</guid>
-      <description>&lt;p&gt;Not every problem has an off-the-shelf solution. We design and build custom electronic systems for specialized applications.&lt;/p&gt;&#xA;&lt;p&gt;Capabilities include drive-thru car counters, custom embedded systems, industrial controls, and integration of specialized equipment. Background includes embedded systems for military rotary-wing aviation and hypervisor-based mission networking.&lt;/p&gt;&#xA;&lt;p&gt;From concept through deployment, we deliver hardware solutions tailored to your specific requirements.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Physical Security Systems</title>
-      <link>http://localhost:1313/post/physical-security/</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/physical-security/</guid>
-      <description>&lt;p&gt;Protect your facilities with properly designed and installed electronic security systems. We handle the complete lifecycle from initial design through installation and ongoing support.&lt;/p&gt;&#xA;&lt;p&gt;Services include electronic access control systems, security camera installations, alarm systems, and integration with existing infrastructure. We ensure systems work reliably and meet your security requirements.&lt;/p&gt;&#xA;&lt;p&gt;Whether new installations or upgrades to existing systems, we deliver security solutions that actually work.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CMMC Compliance</title>
-      <link>http://localhost:1313/post/cmmc-defense-contractors/</link>
-      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/cmmc-defense-contractors/</guid>
-      <description>&lt;p&gt;Defense contractors face mandatory CMMC certification. We provide end-to-end support from initial assessment through successful certification.&lt;/p&gt;&#xA;&lt;p&gt;Recent successful Level 1 attestation with IonDesign included scope assessment, gap analysis, POA&amp;amp;M development, and implementation. Experience also includes enterprise-wide NIST 800-171 implementation as ISO/ISSO.&lt;/p&gt;&#xA;&lt;p&gt;Whether Level 1 self-attestation or Level 2 preparation, we guide organizations through compliance requirements efficiently.&lt;/p&gt;</description>
+      <title>Small Business IT</title>
+      <link>http://localhost:1313/post/small-business-it/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/small-business-it/</guid>
+      <description>&lt;p&gt;Stop fighting with technology and focus on running your business. We provide comprehensive IT management: day-to-day support, proactive maintenance, web design, security, and strategic planning.&lt;/p&gt;&#xA;&lt;p&gt;From managing your servers and network to building your website and handling user support, we cover the full spectrum of small business IT needs. Month-to-month agreements, responsive support, and practical solutions.&lt;/p&gt;&#xA;&lt;p&gt;Right-sized enterprise expertise for small business budgets.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Systems Integration</title>
       <link>http://localhost:1313/post/systems-integration/</link>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/systems-integration/</guid>
       <description>&lt;p&gt;Integrating complex systems requires both technical expertise and project management. We handle the coordination and technical work to make disparate systems work together.&lt;/p&gt;&#xA;&lt;p&gt;Background includes integrating Live, Virtual, and Constructive simulation technologies for Navy training environments, managing integrated project teams across networks and software development, and bridging multiple Navy test ranges.&lt;/p&gt;&#xA;&lt;p&gt;From planning through implementation, we deliver integrated solutions that function reliably in production environments.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>CMMC Compliance</title>
+      <link>http://localhost:1313/post/cmmc-defense-contractors/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/cmmc-defense-contractors/</guid>
+      <description>&lt;p&gt;Defense contractors face mandatory CMMC certification. We provide end-to-end support from initial assessment through successful certification.&lt;/p&gt;&#xA;&lt;p&gt;Recent successful Level 1 attestation with IonDesign included scope assessment, gap analysis, POA&amp;amp;M development, and implementation. Experience also includes enterprise-wide NIST 800-171 implementation as ISO/ISSO.&lt;/p&gt;&#xA;&lt;p&gt;Whether Level 1 self-attestation or Level 2 preparation, we guide organizations through compliance requirements efficiently.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Physical Security Systems</title>
+      <link>http://localhost:1313/post/physical-security/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/physical-security/</guid>
+      <description>&lt;p&gt;Protect your facilities with properly designed and installed electronic security systems. We handle the complete lifecycle from initial design through installation and ongoing support.&lt;/p&gt;&#xA;&lt;p&gt;Services include electronic access control systems, security camera installations, alarm systems, and integration with existing infrastructure. We ensure systems work reliably and meet your security requirements.&lt;/p&gt;&#xA;&lt;p&gt;Whether new installations or upgrades to existing systems, we deliver security solutions that actually work.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>DevOps &amp; Automation</title>
       <link>http://localhost:1313/post/devops-automation/</link>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/devops-automation/</guid>
       <description>&lt;p&gt;Manual processes don&amp;rsquo;t scale and create opportunities for errors. We build automation that increases reliability while reducing manual work.&lt;/p&gt;&#xA;&lt;p&gt;Experience includes reducing critical data distribution time from 7 days to 6.5 hours through parallelization, implementing CI/CD pipelines with Jenkins and GitHub Actions, and deploying Infrastructure-as-Code across multiple environments.&lt;/p&gt;&#xA;&lt;p&gt;Automated testing, configuration management, centralized logging, and monitoring systems improve operations without adding headcount.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Custom Electronics &amp; Systems</title>
+      <link>http://localhost:1313/post/custom-systems/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/custom-systems/</guid>
+      <description>&lt;p&gt;Not every problem has an off-the-shelf solution. We design and build custom electronic systems for specialized applications.&lt;/p&gt;&#xA;&lt;p&gt;Capabilities include drive-thru car counters, custom embedded systems, industrial controls, and integration of specialized equipment. Background includes embedded systems for military rotary-wing aviation and hypervisor-based mission networking.&lt;/p&gt;&#xA;&lt;p&gt;From concept through deployment, we deliver hardware solutions tailored to your specific requirements.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h2 id=&#34;delivering-reliable-technology-solutions&#34;&gt;Delivering Reliable Technology Solutions&lt;/h2&gt;&#xA;&lt;p&gt;Evan Spangler Consulting provides comprehensive IT and technology solutions for organizations with complex requirements. With nearly a decade of experience across federal, startup, and enterprise environments, we deliver everything from cloud infrastructure to custom embedded systems.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-approach&#34;&gt;Our Approach&lt;/h2&gt;&#xA;&lt;p&gt;Technology challenges vary dramatically across organizations. What works in a federal environment differs from startup needs, and enterprise solutions don&amp;rsquo;t always fit specialized requirements. We draw from diverse experience to match solutions to your actual needs.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;delivering-reliable-technology-solutions&#34;&gt;Delivering Reliable Technology Solutions&lt;/h2&gt;&#xA;&lt;p&gt;We provide comprehensive IT and technology solutions for organizations with complex requirements. With over a decade of experience across federal, startup, and enterprise environments, we deliver everything from cloud infrastructure to custom embedded systems.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-approach&#34;&gt;Our Approach&lt;/h2&gt;&#xA;&lt;p&gt;Technology challenges vary across organizations. Federal environments have different requirements than startups, and enterprise solutions don&amp;rsquo;t always fit specialized needs. We draw from diverse experience to match solutions to your specific situation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CMMC Compliance Services</title>
@@ -65,11 +72,18 @@
       <description>&lt;h2 id=&#34;cmmc-compliance-for-defense-contractors&#34;&gt;CMMC Compliance for Defense Contractors&lt;/h2&gt;&#xA;&lt;p&gt;The Cybersecurity Maturity Model Certification (CMMC) program is mandatory for defense contractors handling Controlled Unclassified Information (CUI). We help organizations achieve and maintain compliance efficiently.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-cmmc&#34;&gt;What is CMMC?&lt;/h2&gt;&#xA;&lt;p&gt;CMMC is the Department of Defense&amp;rsquo;s unified cybersecurity standard for the Defense Industrial Base (DIB). It ensures contractors protect sensitive government information by implementing appropriate security controls.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Three Levels:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Level 1&lt;/strong&gt; - Foundational cybersecurity hygiene (17 practices)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Level 2&lt;/strong&gt; - Advanced cybersecurity practices aligned with NIST 800-171 (110 practices)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Level 3&lt;/strong&gt; - Expert-level practices for highly sensitive programs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Most contractors need Level 1 or Level 2 certification to continue bidding on DoD contracts.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>IT Services for Small Business</title>
+      <link>http://localhost:1313/small-business-it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/small-business-it/</guid>
+      <description>&lt;h2 id=&#34;complete-it-management-for-small-businesses&#34;&gt;Complete IT Management for Small Businesses&lt;/h2&gt;&#xA;&lt;p&gt;Running a small business means wearing many hats. IT shouldn&amp;rsquo;t be one of them. We provide comprehensive technology management that keeps your systems running, your data secure, and your team productive.&lt;/p&gt;&#xA;&lt;h2 id=&#34;managed-it-services&#34;&gt;Managed IT Services&lt;/h2&gt;&#xA;&lt;p&gt;Full-service IT management tailored to small business needs and budgets.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ongoing-support--maintenance&#34;&gt;Ongoing Support &amp;amp; Maintenance&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Day-to-Day IT Support&lt;/strong&gt; - When something breaks or doesn&amp;rsquo;t work right, you need answers fast. We provide responsive support that keeps your team working.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Services</title>
       <link>http://localhost:1313/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/services/</guid>
-      <description>&lt;h2 id=&#34;what-we-offer&#34;&gt;What We Offer&lt;/h2&gt;&#xA;&lt;h3 id=&#34;it-infrastructure--cloud-solutions&#34;&gt;IT Infrastructure &amp;amp; Cloud Solutions&lt;/h3&gt;&#xA;&lt;p&gt;Build reliable, scalable infrastructure that supports your operations. From on-premise to cloud deployments, we design and implement systems that work.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Infrastructure automation with Terraform, Ansible, and Python&lt;/li&gt;&#xA;&lt;li&gt;Cloud architecture and migration (AWS, Oracle Cloud Infrastructure, Azure)&lt;/li&gt;&#xA;&lt;li&gt;Virtualization and hypervisor solutions (VMware, Proxmox, Xen)&lt;/li&gt;&#xA;&lt;li&gt;Network architecture design and implementation&lt;/li&gt;&#xA;&lt;li&gt;Backup and disaster recovery solutions&lt;/li&gt;&#xA;&lt;li&gt;System integration and optimization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;custom-electronics--systems-design&#34;&gt;Custom Electronics &amp;amp; Systems Design&lt;/h3&gt;&#xA;&lt;p&gt;Specialized solutions for unique requirements. We design, build, and deploy custom electronic systems tailored to your needs.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;what-we-offer&#34;&gt;What We Offer&lt;/h2&gt;&#xA;&lt;h3 id=&#34;it-systems--networks-administration&#34;&gt;IT Systems &amp;amp; Networks Administration&lt;/h3&gt;&#xA;&lt;p&gt;Comprehensive systems management ensuring reliable, secure operations.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Linux and Windows server administration&lt;/li&gt;&#xA;&lt;li&gt;Active Directory and identity management&lt;/li&gt;&#xA;&lt;li&gt;VoIP phone systems (FreePBX, Asterisk, Cisco)&lt;/li&gt;&#xA;&lt;li&gt;Configuration management (Puppet, Ansible)&lt;/li&gt;&#xA;&lt;li&gt;Centralized logging and monitoring&lt;/li&gt;&#xA;&lt;li&gt;Patch management and system updates&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;custom-electronics--systems-design&#34;&gt;Custom Electronics &amp;amp; Systems Design&lt;/h3&gt;&#xA;&lt;p&gt;Specialized solutions for unique requirements. We design, build, and deploy custom electronic systems tailored to your needs.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Drive-thru car counters and traffic monitoring systems&lt;/li&gt;&#xA;&lt;li&gt;Custom embedded systems and purpose-built hardware&lt;/li&gt;&#xA;&lt;li&gt;Integration of specialized equipment with existing infrastructure&lt;/li&gt;&#xA;&lt;li&gt;Industrial control and automation systems&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;physical-security-systems&#34;&gt;Physical Security Systems&lt;/h3&gt;&#xA;&lt;p&gt;Complete electronic security solutions designed, installed, and maintained to protect your facilities.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

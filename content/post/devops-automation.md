@@ -1,6 +1,6 @@
 ---
 title: "DevOps & Automation"
-date: 2024-01-02
+date: 2024-01-01
 featured: true
 image: "images/pic06.jpg"
 description: "Streamline operations through automation. CI/CD pipelines, Infrastructure-as-Code, and automated deployments."

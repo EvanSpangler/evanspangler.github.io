@@ -5,17 +5,17 @@ description: "Technology solutions spanning infrastructure, security, and custom
 
 ## Delivering Reliable Technology Solutions
 
-Evan Spangler Consulting provides comprehensive IT and technology solutions for organizations with complex requirements. With nearly a decade of experience across federal, startup, and enterprise environments, we deliver everything from cloud infrastructure to custom embedded systems.
+We provide comprehensive IT and technology solutions for organizations with complex requirements. With over a decade of experience across federal, startup, and enterprise environments, we deliver everything from cloud infrastructure to custom embedded systems.
 
 ## Our Approach
 
-Technology challenges vary dramatically across organizations. What works in a federal environment differs from startup needs, and enterprise solutions don't always fit specialized requirements. We draw from diverse experience to match solutions to your actual needs.
+Technology challenges vary across organizations. Federal environments have different requirements than startups, and enterprise solutions don't always fit specialized needs. We draw from diverse experience to match solutions to your specific situation.
 
 **Complete Solutions** - We don't just advise, we implement. From initial architecture through deployment and ongoing support, we deliver working systems.
 
 **Proven Expertise** - Background includes Oracle Cloud Infrastructure cross-domain solutions, Navy simulation systems integration, military aviation embedded systems, and enterprise technology transformation.
 
-**Practical Engineering** - Focus on systems that work reliably in production. Infrastructure-as-Code, automation, proper monitoring, and realistic disaster recovery.
+**Practical Engineering** - Focus on systems that work reliably in production: Infrastructure-as-Code, automation, proper monitoring, and realistic disaster recovery.
 
 **Diverse Capabilities** - Cloud infrastructure, custom electronics, physical security systems, DevOps automation, compliance implementation, and systems integration. We solve varied technical problems.
 
@@ -67,14 +67,14 @@ Our background spans multiple technology domains and organizational types:
 
 ## Who We Serve
 
-We work with organizations that need reliable technology solutions:
+We work with organizations requiring reliable technology solutions:
 
-- Federal contractors requiring compliance (CMMC, NIST 800-171)
-- Organizations with complex systems integration needs
-- Businesses requiring custom electronics or specialized systems
+- Federal contractors navigating compliance requirements (CMMC, NIST 800-171)
+- Organizations integrating complex distributed systems
+- Businesses needing custom electronics or specialized hardware
 - Companies modernizing legacy infrastructure
-- Organizations needing physical security installations
-- Enterprises managing cloud migrations
+- Organizations implementing physical security systems
+- Enterprises migrating to cloud platforms
 
 ## Let's Talk {#contact}
 
@@ -82,7 +82,7 @@ Have a technology challenge? Let's discuss whether we're a good fit.
 
 **Email:** contact@evanspangler.com
 
-**Availability:** Remote consulting nationwide, with on-site services available for installations, assessments, and integration work.
+**Availability:** Remote consulting nationwide, with on-site services for installations, assessments, and integration work.
 
 We typically respond within one business day.
 

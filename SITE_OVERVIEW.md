@@ -29,7 +29,7 @@ Six service highlight posts appear on the homepage:
 Organizations requiring technology solutions across infrastructure, custom systems, and security. No size restrictions - experience spans federal, startup, and enterprise environments.
 
 ### Key Differentiators
-- Nearly a decade across federal, startup, and enterprise environments
+- Over a decade across federal, startup, and enterprise environments
 - End-to-end capabilities from strategy to implementation
 - Infrastructure expertise (Terraform, AWS, OCI, automation)
 - Custom systems design (embedded systems, electronics, physical security)
