@@ -2,7 +2,7 @@ languageCode = "en-us"
 title = "Evan Spangler Consulting"
 baseURL = "https://evanspangler.github.io"
 theme = "hugo-theme-massively"
-googleanalytics = ""
+googleanalytics = "G-D5M6GG9J6L"
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
