@@ -1,28 +1,22 @@
 languageCode = "en-us"
-title = "Evan Spangler Consulting"
+title = "Evan Spangler Consulting - Technology Solutions"
 baseURL = "https://evanspangler.github.io"
 theme = "hugo-theme-massively"
 googleanalytics = ""
 disqusShortname = ""
-disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
-
-
-# [params]
-  # set below parameter to define a favicon
+[params]
+  description = "IT infrastructure, cloud solutions, custom systems, and security. Nearly a decade of experience across federal, startup, and enterprise environments."
   # favicon = "favicon.ico"
-  # set to change date format
   # dateFormat = "2.1.2006"
   # backgroundPath = "images/bg.jpg"
 
-# Below parameters can be set to override default post settings
-# [params.posts]
-#     folderName = "post"
-#     pageSize = "6"
-#     featuredPost = "true"
-#     paginationPages = 2
-#     showFirstLast = false
- 
+[params.posts]
+    folderName = "post"
+    pageSize = "3"
+    featuredPost = "true"
+
 [languages]
 [languages.en]
   languageName = "English"
