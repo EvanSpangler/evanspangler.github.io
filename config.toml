@@ -8,7 +8,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
   description = "IT infrastructure, cloud solutions, custom systems, and security. Over a decade of experience across federal, startup, and enterprise environments."
-  # favicon = "favicon.ico"
+  favicon = "/logo-favicon.svg"
   # dateFormat = "2.1.2006"
   # backgroundPath = "images/bg.jpg"
 

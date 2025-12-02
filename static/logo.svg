@@ -1,0 +1,60 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define colors -->
+  <defs>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Shield outline -->
+  <path d="M200 50 L320 90 L320 200 Q320 280 200 350 Q80 280 80 200 L80 90 Z" 
+        fill="url(#shieldGrad)" 
+        stroke="#1e3a8a" 
+        stroke-width="3"/>
+  
+  <!-- Circuit pattern inside shield -->
+  <g stroke="#60a5fa" stroke-width="2" fill="none" opacity="0.8">
+    <!-- Horizontal lines -->
+    <line x1="130" y1="140" x2="180" y2="140"/>
+    <line x1="220" y1="140" x2="270" y2="140"/>
+    <line x1="130" y1="180" x2="180" y2="180"/>
+    <line x1="220" y1="180" x2="270" y2="180"/>
+    <line x1="130" y1="220" x2="180" y2="220"/>
+    <line x1="220" y1="220" x2="270" y2="220"/>
+    
+    <!-- Vertical lines -->
+    <line x1="180" y1="120" x2="180" y2="170"/>
+    <line x1="220" y1="120" x2="220" y2="170"/>
+    <line x1="180" y1="190" x2="180" y2="240"/>
+    <line x1="220" y1="190" x2="220" y2="240"/>
+  </g>
+  
+  <!-- Connection nodes -->
+  <g fill="#93c5fd">
+    <circle cx="180" cy="140" r="4"/>
+    <circle cx="220" cy="140" r="4"/>
+    <circle cx="180" cy="180" r="4"/>
+    <circle cx="220" cy="180" r="4"/>
+    <circle cx="180" cy="220" r="4"/>
+    <circle cx="220" cy="220" r="4"/>
+    <circle cx="200" cy="180" r="6"/>
+  </g>
+  
+  <!-- Central lock icon -->
+  <g fill="#ffffff">
+    <rect x="190" y="250" width="20" height="25" rx="2"/>
+    <path d="M185 250 L185 240 Q185 230 200 230 Q215 230 215 240 L215 250" 
+          stroke="#ffffff" 
+          stroke-width="3" 
+          fill="none"/>
+  </g>
+  
+  <!-- Company initials -->
+  <text x="200" y="200" 
+        font-family="Arial, sans-serif" 
+        font-size="48" 
+        font-weight="bold" 
+        fill="#ffffff" 
+        text-anchor="middle">ES</text>
+</svg>
