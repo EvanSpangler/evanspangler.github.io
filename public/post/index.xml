@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Evan Spangler Consulting</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://localhost:43215/post/</link>
     <description>Recent content in Posts on Evan Spangler Consulting</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43215/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Infrastructure &amp; Cloud Solutions</title>
-      <link>http://localhost:1313/post/infrastructure-automation/</link>
+      <link>http://localhost:43215/post/infrastructure-automation/</link>
       <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/infrastructure-automation/</guid>
+      <guid>http://localhost:43215/post/infrastructure-automation/</guid>
       <description>&lt;p&gt;Build infrastructure that supports your operations without constant manual intervention. We design and implement cloud architectures, automate deployments, and create systems that scale with your needs.&lt;/p&gt;&#xA;&lt;p&gt;Experience includes Oracle Cloud Infrastructure, AWS deployments, infrastructure automation with Terraform and Ansible, and hybrid cloud environments. Whether migrating to the cloud or optimizing existing infrastructure, we deliver working systems.&lt;/p&gt;&#xA;&lt;p&gt;CI/CD pipelines, Infrastructure-as-Code, configuration management, and automated testing reduce manual work while increasing reliability.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Small Business IT</title>
-      <link>http://localhost:1313/post/small-business-it/</link>
+      <link>http://localhost:43215/post/small-business-it/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/small-business-it/</guid>
+      <guid>http://localhost:43215/post/small-business-it/</guid>
       <description>&lt;p&gt;Stop fighting with technology and focus on running your business. We provide comprehensive IT management: day-to-day support, proactive maintenance, web design, security, and strategic planning.&lt;/p&gt;&#xA;&lt;p&gt;From managing your servers and network to building your website and handling user support, we cover the full spectrum of small business IT needs. Month-to-month agreements, responsive support, and practical solutions.&lt;/p&gt;&#xA;&lt;p&gt;Right-sized enterprise expertise for small business budgets.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Systems Integration</title>
-      <link>http://localhost:1313/post/systems-integration/</link>
+      <link>http://localhost:43215/post/systems-integration/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/systems-integration/</guid>
+      <guid>http://localhost:43215/post/systems-integration/</guid>
       <description>&lt;p&gt;Integrating complex systems requires both technical expertise and project management. We handle the coordination and technical work to make disparate systems work together.&lt;/p&gt;&#xA;&lt;p&gt;Background includes integrating Live, Virtual, and Constructive simulation technologies for Navy training environments, managing integrated project teams across networks and software development, and bridging multiple Navy test ranges.&lt;/p&gt;&#xA;&lt;p&gt;From planning through implementation, we deliver integrated solutions that function reliably in production environments.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CMMC Compliance</title>
-      <link>http://localhost:1313/post/cmmc-defense-contractors/</link>
+      <link>http://localhost:43215/post/cmmc-defense-contractors/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/cmmc-defense-contractors/</guid>
+      <guid>http://localhost:43215/post/cmmc-defense-contractors/</guid>
       <description>&lt;p&gt;Defense contractors face mandatory CMMC certification. We provide end-to-end support from initial assessment through successful certification.&lt;/p&gt;&#xA;&lt;p&gt;Recent successful Level 1 attestation with IonDesign included scope assessment, gap analysis, POA&amp;amp;M development, and implementation. Experience also includes enterprise-wide NIST 800-171 implementation as ISO/ISSO.&lt;/p&gt;&#xA;&lt;p&gt;Whether Level 1 self-attestation or Level 2 preparation, we guide organizations through compliance requirements efficiently.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Physical Security Systems</title>
-      <link>http://localhost:1313/post/physical-security/</link>
+      <link>http://localhost:43215/post/physical-security/</link>
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/physical-security/</guid>
+      <guid>http://localhost:43215/post/physical-security/</guid>
       <description>&lt;p&gt;Protect your facilities with properly designed and installed electronic security systems. We handle the complete lifecycle from initial design through installation and ongoing support.&lt;/p&gt;&#xA;&lt;p&gt;Services include electronic access control systems, security camera installations, alarm systems, and integration with existing infrastructure. We ensure systems work reliably and meet your security requirements.&lt;/p&gt;&#xA;&lt;p&gt;Whether new installations or upgrades to existing systems, we deliver security solutions that actually work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DevOps &amp; Automation</title>
-      <link>http://localhost:1313/post/devops-automation/</link>
+      <link>http://localhost:43215/post/devops-automation/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/devops-automation/</guid>
+      <guid>http://localhost:43215/post/devops-automation/</guid>
       <description>&lt;p&gt;Manual processes don&amp;rsquo;t scale and create opportunities for errors. We build automation that increases reliability while reducing manual work.&lt;/p&gt;&#xA;&lt;p&gt;Experience includes reducing critical data distribution time from 7 days to 6.5 hours through parallelization, implementing CI/CD pipelines with Jenkins and GitHub Actions, and deploying Infrastructure-as-Code across multiple environments.&lt;/p&gt;&#xA;&lt;p&gt;Automated testing, configuration management, centralized logging, and monitoring systems improve operations without adding headcount.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Custom Electronics &amp; Systems</title>
-      <link>http://localhost:1313/post/custom-systems/</link>
+      <link>http://localhost:43215/post/custom-systems/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/custom-systems/</guid>
+      <guid>http://localhost:43215/post/custom-systems/</guid>
       <description>&lt;p&gt;Not every problem has an off-the-shelf solution. We design and build custom electronic systems for specialized applications.&lt;/p&gt;&#xA;&lt;p&gt;Capabilities include drive-thru car counters, custom embedded systems, industrial controls, and integration of specialized equipment. Background includes embedded systems for military rotary-wing aviation and hypervisor-based mission networking.&lt;/p&gt;&#xA;&lt;p&gt;From concept through deployment, we deliver hardware solutions tailored to your specific requirements.&lt;/p&gt;</description>
     </item>
   </channel>
