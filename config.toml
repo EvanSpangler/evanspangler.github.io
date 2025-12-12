@@ -20,3 +20,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [languages]
 [languages.en]
   languageName = "English"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
