@@ -1,93 +1,95 @@
 ---
-title: "About"
-description: "Technology solutions spanning infrastructure, security, and custom systems"
+title: "About Me"
+description: "Evan Spangler - Technology solutions spanning infrastructure, security, and custom systems"
 ---
 
-## Delivering Reliable Technology Solutions
+<div style="display: flex; justify-content: center; margin-bottom: 2rem;">
+    <img src="/headshot_circle.jpg" alt="Evan Spangler" style="width: 200px; height: 200px; border-radius: 50%;">
+</div>
 
-We provide comprehensive IT and technology solutions for organizations with complex requirements. With over a decade of experience across federal, startup, and enterprise environments, we deliver everything from cloud infrastructure to custom embedded systems.
+## Hi, I'm Evan
 
-## Our Approach
+I’m a technology problem solver. Whether you are a small business needing to modernize your systems or a federal contractor navigating complex compliance requirements, I bring the same level of rigor and reliability to every project.
 
-Technology challenges vary across organizations. Federal environments have different requirements than startups, and enterprise solutions don't always fit specialized needs. We draw from diverse experience to match solutions to your specific situation.
+With over a decade of experience, I bridge the gap between enterprise-grade engineering and the practical realities of running a business. I don't just build technology; I build solutions that work for *you*.
 
-**Complete Solutions** - We don't just advise, we implement. From initial architecture through deployment and ongoing support, we deliver working systems.
+## My Philosophy
 
-**Proven Expertise** - Background includes Oracle Cloud Infrastructure cross-domain solutions, Navy simulation systems integration, military aviation embedded systems, and enterprise technology transformation.
+Technology shouldn’t be a black box. It should be a transparent, reliable, and powerful asset for your business.
 
-**Practical Engineering** - Focus on systems that work reliably in production: Infrastructure-as-Code, automation, proper monitoring, and realistic disaster recovery.
+**I believe in Practical Engineering.**
+I don’t chase trends. I focus on systems that work reliably in production. Whether it's automation, proper monitoring, or disaster recovery, I build things to last.
 
-**Diverse Capabilities** - Cloud infrastructure, custom electronics, physical security systems, DevOps automation, compliance implementation, and systems integration. We solve varied technical problems.
+**I understand the Business Side.**
+I’ve been an IT Director for a startup. I’ve managed a P&L, navigated technical debt, and led organizational change. I understand that every technical decision has a business cost and a business benefit.
 
-## Experience That Delivers
+**I deliver Complete Solutions.**
+I don't just advise and walk away. From initial architecture through deployment and ongoing support, I get my hands dirty and ensure the system works as promised.
 
-Our background spans multiple technology domains and organizational types:
+## Bringing Enterprise Experience to Your Business
 
-**Cloud & Infrastructure** - Architected and implemented Oracle Cloud Infrastructure solutions, AWS deployments, and hybrid environments. Deep experience with Infrastructure-as-Code (Terraform), automation (Ansible, Python), and CI/CD pipelines.
+I’ve spent years solving hard problems for massive organizations, and I apply those same lessons to every client I work with.
 
-**Systems Integration** - Led integration of Live, Virtual, and Constructive simulation technologies for Navy training environments. Project management and technical integration of complex distributed systems.
+**Reliability & Security (Oracle)**
+As a Senior Site Reliability Engineer at **Oracle**, I worked on systems that simply *could not fail*. I secured critical data exchange platforms ensuring they met strict NSA requirements. I bring this same security-first mindset to protecting your business assets.
 
-**Custom Systems** - Designed and deployed embedded systems for military rotary-wing aviation, including hypervisor-based mission networking. Custom electronics for specialized applications.
+**Efficiency & Automation (Sonatype)**
+Time is money. At **Sonatype**, I helped engineer a process that reduced a critical data distribution task from **7 days to just 6.5 hours**. That’s the power of smart automation. I look for these opportunities in every business—finding the bottlenecks and crushing them.
 
-**Security & Compliance** - CMMC Level 1 self-attestation engagement with IonDesign. Implemented enterprise-wide NIST 800-171 compliance as ISO/ISSO. Cross-domain solutions meeting NSA requirements.
+**Business Leadership (DeCroix Services)**
+I know what it’s like to sit in the driver’s seat. As **IT Director** for a 30-person startup, I successfully managed a $9.6M ARR operation. I led the charge to modernize 40 years of accumulated technical debt, moving from on-premise legacy systems to the cloud. I understand the pressure of making payroll and the need for technology to drive ROI, not just look cool.
 
-**Enterprise Technology** - Directed $9.6M ARR technology operations, led cloud migrations, replaced legacy systems, and established modern IT processes.
+**Field-Tested Engineering (Defense & Aviation)**
+I’ve built systems that fly in helicopters and integrate with Navy simulations. At **Alion** and **Tek Fusion**, I learned that "deployment" means it has to work in the field, often under difficult conditions. I design with the real world in mind.
 
-**DevOps & Automation** - Reduced critical data distribution time from 7 days to 6.5 hours through parallelization. Built CI/CD pipelines, automated deployments, and infrastructure automation.
+## Certifications
 
-## What We Build
+My background includes professional certifications across cloud architecture, systems design, and networking.
 
-### Infrastructure Projects
-- Cloud migrations and hybrid architectures
-- Infrastructure automation and configuration management
-- High-availability and disaster recovery systems
-- Network architecture and redesigns
-- Virtualization platforms
+- Oracle Cloud Infrastructure Certified DevOps Professional
+- Oracle Cloud Infrastructure Certified Architect Associate
+- Systems Design Certificate, Cornell University
+- COMPTIA Linux+, Security+, Network+, A+
+- Cisco Certified Entry Networking Technician
 
-### Custom Solutions
-- Embedded systems for specialized applications
-- Custom electronics (drive-thru counters, industrial controls)
-- Physical security systems (access control, cameras, alarms)
-- System integration for complex environments
-- Purpose-built hardware solutions
+## How I Can Help You
 
-### Security & Compliance
-- CMMC compliance preparation and attestation
-- NIST 800-171 implementation
-- Security assessments and remediation
-- Cross-domain solutions
-- Security architecture design
+### modernizing Your Infrastructure
+If you are still running on old servers or struggling with a cloud migration, I can help you move to a modern, secure, and cost-effective architecture.
+- Cloud migrations (AWS, OCI, Hybrid)
+- High-availability systems
+- Network redesigns
 
-### Operations & Automation
-- CI/CD pipeline development
-- Automated testing and deployment
-- Configuration management
-- Centralized logging and monitoring
-- Performance optimization
+### Securing Your Business
+Compliance isn't just a checkbox; it's your license to operate. I specialize in helping contractors and businesses meet rigorous standards.
+- CMMC & NIST 800-171 Compliance
+- Security assessments
+- Physical security systems (cameras, access control)
 
-## Who We Serve
+### Building Custom Solutions
+Sometimes off-the-shelf software doesn't cut it. I build specialized hardware and software solutions tailored to your unique workflow.
+- Embedded systems & custom electronics
+- Industrial controls
+- Purpose-built hardware
 
-We work with organizations requiring reliable technology solutions:
-
-- Federal contractors navigating compliance requirements (CMMC, NIST 800-171)
-- Organizations integrating complex distributed systems
-- Businesses needing custom electronics or specialized hardware
-- Companies modernizing legacy infrastructure
-- Organizations implementing physical security systems
-- Enterprises migrating to cloud platforms
+### Automating Operations
+If you are doing it manually, it's costing you too much. I build pipelines and scripts to automate the boring stuff so you can focus on growing your business.
+- CI/CD Pipelines
+- Automated testing & deployment
+- configuration management
 
 ## Let's Talk {#contact}
 
-Have a technology challenge? Let's discuss whether we're a good fit.
+You don't need a sales pitch; you need a solution. Let's discuss your specific challenges and see if we are a good fit.
 
 **Email:** contact@evanspangler.com
 
-**Availability:** Remote consulting nationwide, with on-site services for installations, assessments, and integration work.
+**Availability:** remote consulting nationwide, with on-site services available for physical installations and assessments.
 
-We typically respond within one business day.
+I typically respond within one business day.
 
 ---
 
 ### Service Delivery
 
-We provide services remotely where appropriate and on-site when necessary. Physical installations, integration work, and assessments often require on-site presence. Infrastructure, automation, and cloud projects typically work well remotely.
+I am flexible in how I work. For physical installations and sensitive assessments, I come to you. For infrastructure, automation, and software projects, I work remotely with regular check-ins to keep us aligned.
