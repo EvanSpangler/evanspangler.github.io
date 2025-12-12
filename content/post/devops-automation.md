@@ -1,13 +1,13 @@
 ---
-title: "DevOps & Automation"
+title: "Automated Compliance"
 date: 2024-01-01
 featured: true
 image: "images/pic06.jpg"
-description: "Streamline operations through automation. CI/CD pipelines, Infrastructure-as-Code, and automated deployments."
+description: "Stop manually collecting evidence. We build automation to enforce security policies and generate compliance artifacts for your assessments."
 ---
 
-Manual processes don't scale and create opportunities for errors. We build automation that increases reliability while reducing manual work.
+Manual compliance is expensive and error-prone. We use DevOps principles to automate your security governance.
 
-Experience includes reducing critical data distribution time from 7 days to 6.5 hours through parallelization, implementing CI/CD pipelines with Jenkins and GitHub Actions, and deploying Infrastructure-as-Code across multiple environments.
+By implementing configuration management and continuous monitoring, we ensure that your systems stay compliant, not just during an audit window.
 
-Automated testing, configuration management, centralized logging, and monitoring systems improve operations without adding headcount.
+We build pipelines that automatically validate security controls, enforce secure baselines, and generate the evidence you need for your System Security Plan (SSP).

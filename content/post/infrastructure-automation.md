@@ -1,13 +1,13 @@
 ---
-title: "Infrastructure & Cloud Solutions"
+title: "Secure Cloud & Infrastructure"
 date: 2024-01-06
 featured: true
 image: "images/pic01.jpg"
-description: "Scalable, reliable infrastructure from on-premise to cloud. Automation with Terraform, AWS, OCI, and modern DevOps practices."
+description: "Build your CMMC enclave. Secure, compliant infrastructure architectures (AWS GovCloud, OCI, Azure) managed with Infrastructure-as-Code."
 ---
 
-Build infrastructure that supports your operations without constant manual intervention. We design and implement cloud architectures, automate deployments, and create systems that scale with your needs.
+Your infrastructure is the foundation of your compliance posture. We design and build secure CMMC enclaves that isolate CUI from the rest of your network.
 
-Experience includes Oracle Cloud Infrastructure, AWS deployments, infrastructure automation with Terraform and Ansible, and hybrid cloud environments. Whether migrating to the cloud or optimizing existing infrastructure, we deliver working systems.
+Using Infrastructure-as-Code (Terraform/Ansible), we deploy compliant architectures with proper encryption, access controls, and boundary protection baked in.
 
-CI/CD pipelines, Infrastructure-as-Code, configuration management, and automated testing reduce manual work while increasing reliability.
+Experience with AWS GovCloud, Oracle Cloud Infrastructure, and hybrid environments ensures your data stays safe and your hosting meets FedRAMP requirements.

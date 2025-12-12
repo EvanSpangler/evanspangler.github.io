@@ -9,25 +9,18 @@
     <lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Infrastructure &amp; Cloud Solutions</title>
+      <title>Secure Cloud &amp; Infrastructure</title>
       <link>http://localhost:1313/post/infrastructure-automation/</link>
       <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/infrastructure-automation/</guid>
-      <description>Build infrastructure that supports your operations without constant manual intervention. We design and implement cloud architectures, automate deployments, and create systems that scale with your needs.&#xA;Experience includes Oracle Cloud Infrastructure, AWS deployments, infrastructure automation with Terraform and Ansible, and hybrid cloud environments. Whether migrating to the cloud or optimizing existing infrastructure, we deliver working systems.&#xA;CI/CD pipelines, Infrastructure-as-Code, configuration management, and automated testing reduce manual work while increasing reliability.</description>
+      <description>Your infrastructure is the foundation of your compliance posture. We design and build secure CMMC enclaves that isolate CUI from the rest of your network.&#xA;Using Infrastructure-as-Code (Terraform/Ansible), we deploy compliant architectures with proper encryption, access controls, and boundary protection baked in.&#xA;Experience with AWS GovCloud, Oracle Cloud Infrastructure, and hybrid environments ensures your data stays safe and your hosting meets FedRAMP requirements.</description>
     </item>
     <item>
-      <title>Small Business IT</title>
+      <title>Fractional IT &amp; Compliance</title>
       <link>http://localhost:1313/post/small-business-it/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/small-business-it/</guid>
-      <description>Stop fighting with technology and focus on running your business. We provide comprehensive IT management: day-to-day support, proactive maintenance, web design, security, and strategic planning.&#xA;From managing your servers and network to building your website and handling user support, we cover the full spectrum of small business IT needs. Month-to-month agreements, responsive support, and practical solutions.&#xA;Right-sized enterprise expertise for small business budgets.</description>
-    </item>
-    <item>
-      <title>Systems Integration</title>
-      <link>http://localhost:1313/post/systems-integration/</link>
-      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/systems-integration/</guid>
-      <description>Integrating complex systems requires both technical expertise and project management. We handle the coordination and technical work to make disparate systems work together.&#xA;Background includes integrating Live, Virtual, and Constructive simulation technologies for Navy training environments, managing integrated project teams across networks and software development, and bridging multiple Navy test ranges.&#xA;From planning through implementation, we deliver integrated solutions that function reliably in production environments.</description>
+      <description>You don&amp;rsquo;t need a full-time CIO or CISO to be secure. We provide fractional IT leadership and support tailored to small defense contractors.&#xA;We handle day-to-day helpdesk needs, server administration, and security updates while maintaining the documentation required for CMMC.&#xA;Stop worrying about whether your admin is logging the right events or if your backups are encrypted. We handle the technical details so you can focus on fulfilling your contracts.</description>
     </item>
     <item>
       <title>CMMC Compliance</title>
@@ -37,25 +30,11 @@
       <description>Defense contractors face mandatory CMMC certification. We provide end-to-end support from initial assessment through successful certification.&#xA;Recent successful Level 1 attestation with IonDesign included scope assessment, gap analysis, POA&amp;amp;M development, and implementation. Experience also includes enterprise-wide NIST 800-171 implementation as ISO/ISSO.&#xA;Whether Level 1 self-attestation or Level 2 preparation, we guide organizations through compliance requirements efficiently. For a more comprehensive overview, please visit our CMMC Compliance page.</description>
     </item>
     <item>
-      <title>Physical Security Systems</title>
-      <link>http://localhost:1313/post/physical-security/</link>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/physical-security/</guid>
-      <description>Protect your facilities with properly designed and installed electronic security systems. We handle the complete lifecycle from initial design through installation and ongoing support.&#xA;Services include electronic access control systems, security camera installations, alarm systems, and integration with existing infrastructure. We ensure systems work reliably and meet your security requirements.&#xA;Whether new installations or upgrades to existing systems, we deliver security solutions that actually work.</description>
-    </item>
-    <item>
-      <title>DevOps &amp; Automation</title>
+      <title>Automated Compliance</title>
       <link>http://localhost:1313/post/devops-automation/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/devops-automation/</guid>
-      <description>Manual processes don&amp;rsquo;t scale and create opportunities for errors. We build automation that increases reliability while reducing manual work.&#xA;Experience includes reducing critical data distribution time from 7 days to 6.5 hours through parallelization, implementing CI/CD pipelines with Jenkins and GitHub Actions, and deploying Infrastructure-as-Code across multiple environments.&#xA;Automated testing, configuration management, centralized logging, and monitoring systems improve operations without adding headcount.</description>
-    </item>
-    <item>
-      <title>Custom Electronics &amp; Systems</title>
-      <link>http://localhost:1313/post/custom-systems/</link>
-      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/custom-systems/</guid>
-      <description>Not every problem has an off-the-shelf solution. We design and build custom electronic systems for specialized applications.&#xA;Capabilities include drive-thru car counters, custom embedded systems, industrial controls, and integration of specialized equipment. Background includes embedded systems for military rotary-wing aviation and hypervisor-based mission networking.&#xA;From concept through deployment, we deliver hardware solutions tailored to your specific requirements.</description>
+      <description>Manual compliance is expensive and error-prone. We use DevOps principles to automate your security governance.&#xA;By implementing configuration management and continuous monitoring, we ensure that your systems stay compliant, not just during an audit window.&#xA;We build pipelines that automatically validate security controls, enforce secure baselines, and generate the evidence you need for your System Security Plan (SSP).</description>
     </item>
     <item>
       <title>About Me</title>
@@ -83,7 +62,7 @@
       <link>http://localhost:1313/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/services/</guid>
-      <description>What We Offer IT Systems &amp;amp; Networks Administration Comprehensive systems management ensuring reliable, secure operations.&#xA;Linux and Windows server administration Active Directory and identity management VoIP phone systems (FreePBX, Asterisk, Cisco) Configuration management (Puppet, Ansible) Centralized logging and monitoring Patch management and system updates Custom Electronics &amp;amp; Systems Design Specialized solutions for unique requirements. We design, build, and deploy custom electronic systems tailored to your needs.&#xA;Drive-thru car counters and traffic monitoring systems Custom embedded systems and purpose-built hardware Integration of specialized equipment with existing infrastructure Industrial control and automation systems Physical Security Systems Complete electronic security solutions designed, installed, and maintained to protect your facilities.</description>
+      <description>What We Offer Cybersecurity &amp;amp; Compliance Protect your organization and meet regulatory requirements. We specialize in helping small contractors navigate the complexity of DoD regulations.&#xA;CMMC Level 1 &amp;amp; Level 2 preparation and implementation NIST 800-171 compliance and gap analysis System Security Plan (SSP) &amp;amp; POA&amp;amp;M development Security assessments and vulnerability analysis Incident response planning Risk analysis and mitigation planning Learn more about CMMC services&#xA;Managed IT for Defense Contractors Comprehensive systems management ensuring reliable, secure operations that meet compliance standards.</description>
     </item>
   </channel>
 </rss>

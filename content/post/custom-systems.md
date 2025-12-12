@@ -1,7 +1,7 @@
 ---
 title: "Custom Electronics & Systems"
 date: 2023-12-31
-featured: true
+draft: true
 image: "images/pic02.jpg"
 description: "Specialized solutions for unique requirements. Custom electronics, embedded systems, and purpose-built hardware."
 ---

@@ -89,8 +89,20 @@ This engagement demonstrates our capability to guide organizations from initial 
 **Competitive Advantage** - Early certification positions you favorably for contract opportunities.
 
 **Better Security** - CMMC implementation genuinely improves your security posture, protecting both government and proprietary information.
-
-## Common Challenges We Address
+ 
+ ## Do You Need Full-Time IT Staff?
+ 
+ Many small contractors believe they need to hire a full-time IT Director or CISO to handle CMMC. **You likely do not.**
+ 
+ For organizations under 50 employees, a full-time senior IT hire is often:
+ - **Too Expensive:** Salaries for experienced security professionals are high.
+ - **Underutilized:** Once the initial setup is done, day-to-day work may not justify a full-time senior role.
+ - **Hard to Find:** Qualified professionals are in high demand.
+ 
+ **The Fractional Model**
+ We provide the expertise of a CISO and IT Director on a fractional basis. You get high-level strategy, policy development, and technical implementation for a predictable monthly cost—often less than the cost of a junior entry-level hire.
+ 
+ ## Common Challenges We Address
 
 **Budget Constraints** - We help small contractors prioritize spending and identify cost-effective solutions.
 

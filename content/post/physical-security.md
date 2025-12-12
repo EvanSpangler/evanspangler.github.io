@@ -1,7 +1,7 @@
 ---
 title: "Physical Security Systems"
 date: 2024-01-02
-featured: true
+draft: true
 image: "images/pic03.jpg"
 description: "Electronic access control, security cameras, and alarm systems. Design, installation, and ongoing maintenance."
 ---

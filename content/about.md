@@ -14,33 +14,33 @@ I’m a technology problem solver. Whether you are a small business needing to m
 With over a decade of experience, I bridge the gap between enterprise-grade engineering and the practical realities of running a business. I don't just build technology; I build solutions that work for *you*.
 
 ## My Philosophy
-
-Technology shouldn’t be a black box. It should be a transparent, reliable, and powerful asset for your business.
-
-**I believe in Practical Engineering.**
-I don’t chase trends. I focus on systems that work reliably in production. Whether it's automation, proper monitoring, or disaster recovery, I build things to last.
-
-**I understand the Business Side.**
-I’ve been an IT Director for a startup. I’ve managed a P&L, navigated technical debt, and led organizational change. I understand that every technical decision has a business cost and a business benefit.
-
-**I deliver Complete Solutions.**
-I don't just advise and walk away. From initial architecture through deployment and ongoing support, I get my hands dirty and ensure the system works as promised.
-
-## Bringing Enterprise Experience to Your Business
-
-I’ve spent years solving hard problems for massive organizations, and I apply those same lessons to every client I work with.
-
-**Reliability & Security (Oracle)**
-As a Senior Site Reliability Engineer at **Oracle**, I worked on systems that simply *could not fail*. I secured critical data exchange platforms ensuring they met strict NSA requirements. I bring this same security-first mindset to protecting your business assets.
-
-**Efficiency & Automation (Sonatype)**
-Time is money. At **Sonatype**, I helped engineer a process that reduced a critical data distribution task from **7 days to just 6.5 hours**. That’s the power of smart automation. I look for these opportunities in every business—finding the bottlenecks and crushing them.
-
-**Business Leadership (DeCroix Services)**
-I know what it’s like to sit in the driver’s seat. As **IT Director** for a 30-person startup, I successfully managed a $9.6M ARR operation. I led the charge to modernize 40 years of accumulated technical debt, moving from on-premise legacy systems to the cloud. I understand the pressure of making payroll and the need for technology to drive ROI, not just look cool.
-
-**Field-Tested Engineering (Defense & Aviation)**
-I’ve built systems that fly in helicopters and integrate with Navy simulations. At **Alion** and **Tek Fusion**, I learned that "deployment" means it has to work in the field, often under difficult conditions. I design with the real world in mind.
+ 
+ Technology shouldn’t be a bureaucratic hurdle. It needs to be a secure, reliable foundation for your mission.
+ 
+ **I believe in Security by Design.**
+ We don't just "bolt on" security at the end to pass an audit. I build systems that are secure from the ground up, making compliance easier to maintain long-term.
+ 
+ **I understand the Small Business Struggle.**
+ As a former IT Director for a 30-person company, I know what it's like to balance a limited budget with high expectations. You don't have infinite resources, so every dollar you spend on IT needs to deliver value and protection.
+ 
+ **I deliver Complete Solutions.**
+ I don't just hand you a stack of paperwork and wish you luck with the audit. I implement the controls, configure the firewalls, and ensure your systems actually meet the standards we claim they do.
+ 
+ ## Real-World Defense Experience
+ 
+ I’ve spent years solving hard problems for the DoD and enterprise organizations, and I apply those same lessons to small defense contractors.
+ 
+ **Defense & Aviation Engineering (Alion / Tek Fusion)**
+ I’ve built systems that fly in helicopters and integrate with Navy simulations. I understand that "deployment" means it has to work in the field, often under difficult conditions. I bring this same rigor to ensuring your compliance posture is mission-ready, not just paper-thin.
+ 
+ **Reliability & Security (Oracle)**
+ As a Senior Site Reliability Engineer at **Oracle**, I worked on systems that simply *could not fail*. I secured critical data exchange platforms ensuring they met strict NSA requirements. This security-first mindset is critical for protecting CUI.
+ 
+ **Business & Operations (DeCroix Services)**
+ As **IT Director**, I led the charge to modernize 40 years of accumulated technical debt. I managed a P&L, navigated audits, and led organizational change. I understand the pressure of making payroll and the need for technology to protect the business without bankrupting it.
+ 
+ **Efficiency & Automation (Sonatype)**
+ Compliance shouldn't require an army of people. At **Sonatype**, I helped engineer processes that drastically reduced manual effort through smart automation. I look for these opportunities to streamline your compliance evidence collection and reporting.
 
 ## Certifications
 
