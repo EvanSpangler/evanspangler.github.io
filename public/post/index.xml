@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Evan Spangler Consulting</title>
-    <link>http://localhost:1316/post/</link>
+    <link>http://localhost:1315/post/</link>
     <description>Recent content in Posts on Evan Spangler Consulting</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1316/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1315/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CMMC Compliance</title>
+      <link>http://localhost:1315/post/cmmc-defense-contractors/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/post/cmmc-defense-contractors/</guid>
+      <description>Defense contractors face mandatory CMMC certification. We provide end-to-end support from initial assessment through successful certification.&#xA;Recent successful Level 1 attestation with IonDesign included scope assessment, gap analysis, POA&amp;amp;M development, and implementation. Experience also includes enterprise-wide NIST 800-171 implementation as ISO/ISSO.&#xA;Whether Level 1 self-attestation or Level 2 preparation, we guide organizations through compliance requirements efficiently. For a more comprehensive overview, please visit our CMMC Compliance page.</description>
+    </item>
     <item>
       <title>Secure Cloud &amp; Infrastructure</title>
-      <link>http://localhost:1316/post/infrastructure-automation/</link>
+      <link>http://localhost:1315/post/infrastructure-automation/</link>
       <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1316/post/infrastructure-automation/</guid>
+      <guid>http://localhost:1315/post/infrastructure-automation/</guid>
       <description>Your infrastructure is the foundation of your compliance posture. We design and build secure CMMC enclaves that isolate CUI from the rest of your network.&#xA;Using Infrastructure-as-Code (Terraform/Ansible), we deploy compliant architectures with proper encryption, access controls, and boundary protection baked in.&#xA;Experience with AWS GovCloud, Oracle Cloud Infrastructure, and hybrid environments ensures your data stays safe and your hosting meets FedRAMP requirements.</description>
     </item>
     <item>
       <title>Fractional IT &amp; Compliance</title>
-      <link>http://localhost:1316/post/small-business-it/</link>
+      <link>http://localhost:1315/post/small-business-it/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1316/post/small-business-it/</guid>
+      <guid>http://localhost:1315/post/small-business-it/</guid>
       <description>You don&amp;rsquo;t need a full-time CIO or CISO to be secure. We provide fractional IT leadership and support tailored to small defense contractors.&#xA;We handle day-to-day helpdesk needs, server administration, and security updates while maintaining the documentation required for CMMC.&#xA;Stop worrying about whether your admin is logging the right events or if your backups are encrypted. We handle the technical details so you can focus on fulfilling your contracts.</description>
     </item>
     <item>
-      <title>CMMC Compliance</title>
-      <link>http://localhost:1316/post/cmmc-defense-contractors/</link>
-      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1316/post/cmmc-defense-contractors/</guid>
-      <description>Defense contractors face mandatory CMMC certification. We provide end-to-end support from initial assessment through successful certification.&#xA;Recent successful Level 1 attestation with IonDesign included scope assessment, gap analysis, POA&amp;amp;M development, and implementation. Experience also includes enterprise-wide NIST 800-171 implementation as ISO/ISSO.&#xA;Whether Level 1 self-attestation or Level 2 preparation, we guide organizations through compliance requirements efficiently. For a more comprehensive overview, please visit our CMMC Compliance page.</description>
-    </item>
-    <item>
       <title>Automated Compliance</title>
-      <link>http://localhost:1316/post/devops-automation/</link>
+      <link>http://localhost:1315/post/devops-automation/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1316/post/devops-automation/</guid>
+      <guid>http://localhost:1315/post/devops-automation/</guid>
       <description>Manual compliance is expensive and error-prone. We use DevOps principles to automate your security governance.&#xA;By implementing configuration management and continuous monitoring, we ensure that your systems stay compliant, not just during an audit window.&#xA;We build pipelines that automatically validate security controls, enforce secure baselines, and generate the evidence you need for your System Security Plan (SSP).</description>
     </item>
   </channel>
