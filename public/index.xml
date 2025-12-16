@@ -2,66 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evan Spangler Consulting</title>
-    <link>http://localhost:1315/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Evan Spangler Consulting</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1315/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CMMC Compliance</title>
-      <link>http://localhost:1315/post/cmmc-defense-contractors/</link>
+      <link>http://localhost:1313/post/cmmc-defense-contractors/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/post/cmmc-defense-contractors/</guid>
-      <description>Defense contractors face mandatory CMMC certification. We provide end-to-end support from initial assessment through successful certification.&#xA;Recent successful Level 1 attestation with IonDesign included scope assessment, gap analysis, POA&amp;amp;M development, and implementation. Experience also includes enterprise-wide NIST 800-171 implementation as ISO/ISSO.&#xA;Whether Level 1 self-attestation or Level 2 preparation, we guide organizations through compliance requirements efficiently. For a more comprehensive overview, please visit our ** CMMC Compliance page. ** </description>
+      <guid>http://localhost:1313/post/cmmc-defense-contractors/</guid>
+      <description>Defense contractors face mandatory CMMC certification. We provide end-to-end support from initial assessment through successful certification.&#xA;Recent successful Level 1 attestation with IonDesign included scope assessment, gap analysis, POA&amp;amp;M development, and implementation. Experience also includes enterprise-wide NIST 800-171 implementation as ISO/ISSO.&#xA;Whether Level 1 self-attestation or Level 2 preparation, we guide organizations through compliance requirements efficiently.&#xA;Want to see our full process? Check out our detailed overview:&#xA;View CMMC Compliance Page </description>
     </item>
     <item>
       <title>Secure Cloud &amp; Infrastructure</title>
-      <link>http://localhost:1315/post/infrastructure-automation/</link>
+      <link>http://localhost:1313/post/infrastructure-automation/</link>
       <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/post/infrastructure-automation/</guid>
+      <guid>http://localhost:1313/post/infrastructure-automation/</guid>
       <description>Your infrastructure is the foundation of your compliance posture. We design and build secure CMMC enclaves that isolate CUI from the rest of your network.&#xA;Using Infrastructure-as-Code (Terraform/Ansible), we deploy compliant architectures with proper encryption, access controls, and boundary protection baked in.&#xA;Experience with AWS GovCloud, Oracle Cloud Infrastructure, and hybrid environments ensures your data stays safe and your hosting meets FedRAMP requirements.</description>
     </item>
     <item>
       <title>Fractional IT &amp; Compliance</title>
-      <link>http://localhost:1315/post/small-business-it/</link>
+      <link>http://localhost:1313/post/small-business-it/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/post/small-business-it/</guid>
+      <guid>http://localhost:1313/post/small-business-it/</guid>
       <description>You don&amp;rsquo;t need a full-time CIO or CISO to be secure. We provide fractional IT leadership and support tailored to small defense contractors.&#xA;We handle day-to-day helpdesk needs, server administration, and security updates while maintaining the documentation required for CMMC.&#xA;Stop worrying about whether your admin is logging the right events or if your backups are encrypted. We handle the technical details so you can focus on fulfilling your contracts.</description>
     </item>
     <item>
       <title>Automated Compliance</title>
-      <link>http://localhost:1315/post/devops-automation/</link>
+      <link>http://localhost:1313/post/devops-automation/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/post/devops-automation/</guid>
+      <guid>http://localhost:1313/post/devops-automation/</guid>
       <description>Manual compliance is expensive and error-prone. We use DevOps principles to automate your security governance.&#xA;By implementing configuration management and continuous monitoring, we ensure that your systems stay compliant, not just during an audit window.&#xA;We build pipelines that automatically validate security controls, enforce secure baselines, and generate the evidence you need for your System Security Plan (SSP).</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1315/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Hi, I&amp;rsquo;m Evan I’m a technology problem solver. Whether you are a small business needing to modernize your systems or a federal contractor navigating complex compliance requirements, I bring the same level of rigor and reliability to every project.&#xA;With over a decade of experience, I bridge the gap between enterprise-grade engineering and the practical realities of running a business. I don&amp;rsquo;t just build technology; I build solutions that work for you.</description>
     </item>
     <item>
       <title>CMMC Compliance Services</title>
-      <link>http://localhost:1315/cmmc-compliance/</link>
+      <link>http://localhost:1313/cmmc-compliance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/cmmc-compliance/</guid>
+      <guid>http://localhost:1313/cmmc-compliance/</guid>
       <description>CMMC Compliance for Defense Contractors The Cybersecurity Maturity Model Certification (CMMC) program is mandatory for defense contractors handling Controlled Unclassified Information (CUI). We help organizations achieve and maintain compliance efficiently.&#xA;What is CMMC? CMMC is the Department of Defense&amp;rsquo;s unified cybersecurity standard for the Defense Industrial Base (DIB). It ensures contractors protect sensitive government information by implementing appropriate security controls.&#xA;Three Levels:&#xA;Level 1 - Foundational cybersecurity hygiene (17 practices) Level 2 - Advanced cybersecurity practices aligned with NIST 800-171 (110 practices) Level 3 - Expert-level practices for highly sensitive programs Most contractors need Level 1 or Level 2 certification to continue bidding on DoD contracts.</description>
     </item>
     <item>
       <title>IT Services for Small Business</title>
-      <link>http://localhost:1315/small-business-it/</link>
+      <link>http://localhost:1313/small-business-it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/small-business-it/</guid>
+      <guid>http://localhost:1313/small-business-it/</guid>
       <description>Complete IT Management for Small Businesses Running a small business means wearing many hats. IT shouldn&amp;rsquo;t be one of them. We provide comprehensive technology management that keeps your systems running, your data secure, and your team productive.&#xA;Managed IT Services Full-service IT management tailored to small business needs and budgets.&#xA;Ongoing Support &amp;amp; Maintenance Day-to-Day IT Support - When something breaks or doesn&amp;rsquo;t work right, you need answers fast. We provide responsive support that keeps your team working.</description>
     </item>
     <item>
-      <title>Services</title>
-      <link>http://localhost:1315/services/</link>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/services/</guid>
+      <guid>http://localhost:1313/privacy-policy/</guid>
+      <description>Privacy Policy Last Updated: December 16, 2025&#xA;1. Introduction Evan Spangler Consulting (&amp;ldquo;we,&amp;rdquo; &amp;ldquo;us,&amp;rdquo; or &amp;ldquo;our&amp;rdquo;) respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.&#xA;2. Information We Collect We may collect, use, store, and transfer different kinds of personal data about you which we have grouped together follows:</description>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/</guid>
       <description>What We Offer Cybersecurity &amp;amp; Compliance Protect your organization and meet regulatory requirements. We specialize in helping small contractors navigate the complexity of DoD regulations.&#xA;CMMC Level 1 &amp;amp; Level 2 preparation and implementation NIST 800-171 compliance and gap analysis System Security Plan (SSP) &amp;amp; POA&amp;amp;M development Security assessments and vulnerability analysis Incident response planning Risk analysis and mitigation planning Learn more about CMMC services&#xA;Managed IT for Defense Contractors Comprehensive systems management ensuring reliable, secure operations that meet compliance standards.</description>
     </item>
   </channel>

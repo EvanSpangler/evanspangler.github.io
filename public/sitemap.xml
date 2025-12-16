@@ -2,30 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1315/post/cmmc-defense-contractors/</loc>
+    <loc>http://localhost:1313/post/cmmc-defense-contractors/</loc>
     <lastmod>2025-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/post/infrastructure-automation/</loc>
+    <loc>http://localhost:1313/post/infrastructure-automation/</loc>
     <lastmod>2024-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/post/small-business-it/</loc>
+    <loc>http://localhost:1313/post/small-business-it/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/post/devops-automation/</loc>
+    <loc>http://localhost:1313/post/devops-automation/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1315/cmmc-compliance/</loc>
+    <loc>http://localhost:1313/cmmc-compliance/</loc>
   </url><url>
-    <loc>http://localhost:1315/small-business-it/</loc>
+    <loc>http://localhost:1313/small-business-it/</loc>
   </url><url>
-    <loc>http://localhost:1315/services/</loc>
+    <loc>http://localhost:1313/privacy-policy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/</loc>
   </url>
 </urlset>
