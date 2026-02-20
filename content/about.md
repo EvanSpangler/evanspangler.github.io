@@ -54,13 +54,21 @@ My background includes professional certifications across cloud architecture, sy
 
 ## What Others Say
 
+> As the owner of IonDesign, an exhibit design firm that has worked on federal projects for over 20 years, I was immediately concerned when I learned about the CMMC certification requirement. Navigating new federal compliance standards is overwhelming, especially when you’re fo>cused on running your business.
+> 
+> Fortunately, I connected with Evan Spangler, who had the expertise and credentials to guide us through the process and secure our Level 1 certification. Evan was professional, knowledgeable, and extremely easy to work with. He explained each step clearly, and the process was smooth.
+>
+> Because of Evan’s support, this is a major requirement that I do not have to worry about when pursuing federal projects. I highly recommend his services to any firm navigating CMMC certification.
+>
+>— **Ruth Bielobocky**, IonDesign, LLC (2025)
+
 > "Timely, professional, and proficient"
 >
-> — **Christine E.**, Edwards Management Consultants, Inc. (2026)
+> — **Christine Edwards**, Edwards Management Consultants, Inc. (2026)
 
 > "Evan is a forward thinking, solutions driven Systems Admin who always has a good, positive attitude toward any problem he's required to help find a solution. He is dedicated to his customers and provides them top-notch, engineering level support. He researches his clients requirements in order to ensure the applications meet their current and future networking needs. He will truly be a valuable asset to any company he works for as he's always a pleasure to have the opportunity to work with."
 >
-> — **Trent M.**, Leidos Biomedical Research, Inc. (2017)
+> — **Trent McKee**, Leidos Biomedical Research, Inc. (2017)
 
 ## How I Can Help You
 

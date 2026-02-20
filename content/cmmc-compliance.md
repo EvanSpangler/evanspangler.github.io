@@ -112,6 +112,8 @@ This engagement demonstrates our capability to guide organizations from initial 
 
 **Timeline Pressure** - We develop realistic timelines and help you move quickly without cutting corners.
 
+**Unwarranted Prime Contractor Demands** - Prime contractors sometimes inappropriately push Level 2 requirements down to subcontractors whose roles are purely administrative (e.g., handling contracts, budgets) and who do not actually handle Controlled Unclassified Information (CUI). We help you determine the correct compliance level and provide strategies to [respond to unwarranted Level 2 demands](/post/cmmc-level-1-vs-level-2/).
+
 ## CMMC Compliance Process
 
 1. **Initial Consultation** - Discuss your contracts, timeline, and current security posture
