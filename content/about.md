@@ -54,9 +54,13 @@ My background includes professional certifications across cloud architecture, sy
 
 ## What Others Say
 
+> "Timely, professional, and proficient"
+>
+> — **Christine E.**, Edwards Management Consultants, Inc. (2026)
+
 > "Evan is a forward thinking, solutions driven Systems Admin who always has a good, positive attitude toward any problem he's required to help find a solution. He is dedicated to his customers and provides them top-notch, engineering level support. He researches his clients requirements in order to ensure the applications meet their current and future networking needs. He will truly be a valuable asset to any company he works for as he's always a pleasure to have the opportunity to work with."
 >
-> — **Trent McKee**, Leidos Biomedical Research, Inc. (2017)
+> — **Trent M.**, Leidos Biomedical Research, Inc. (2017)
 
 ## How I Can Help You
 
