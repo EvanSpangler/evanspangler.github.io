@@ -2,7 +2,7 @@
 title: "When Prime Contractors Demand CMMC Level 2: How to Respond"
 date: 2026-02-20
 featured: true
-image: "images/pic10.png"
+image: "images/pic10.jpg"
 description: "Understand the difference between CMMC Level 1 and Level 2, and learn how to manage unwarranted Level 2 compliance demands from prime contractors."
 ---
 
