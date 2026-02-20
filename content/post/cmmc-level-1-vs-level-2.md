@@ -33,8 +33,8 @@ If a prime contractor pressures you to meet Level 2, here are three structured a
 ### 1. Request Specific CUI Identification
 Ask the prime to explicitly identify what CUI you would be receiving or generating under the contract. If they cannot point to specific CUI categories or marking requirements, there is no solid basis for them to demand Level 2 compliance.
 
-### 2. Clarify Your Administrative Role
-Remind the prime contractor that your responsibilities are administrative. If you handle contracts, budgets, and scheduling rather than technical deliverables or controlled data, you do not have a "need-to-know" for any CUI.
+### 2. Clarify Your Role
+Remind the prime contractor that your responsibilities are administrative, if applicable. If you handle contracts, budgets, and scheduling rather than technical deliverables or controlled data, you do not have a "need-to-know" for any CUI.
 
 ### 3. Point to the Contract Clause
 Request that they review the contract's DFARS 252.204-7021 clause and the associated CUI scope. The required CMMC level must match the type of information *actually* flowing down to you, rather than a blanket requirement applied broadly to every subcontractor.
